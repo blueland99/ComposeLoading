@@ -72,6 +72,9 @@ dependencies {
 
     // Hilt Navigation Compose 의존성 (hiltViewModel을 사용하기 위해 필요)
     implementation(libs.androidx.hilt.navigation.compose)
+
+    // Lottie
+    implementation(libs.lottie.compose)
 }
 
 kapt {

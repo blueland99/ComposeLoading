@@ -75,6 +75,9 @@ dependencies {
 
     // Lottie
     implementation(libs.lottie.compose)
+
+    // Shimmer Effect
+    implementation(libs.accompanist.placeholder.material)
 }
 
 kapt {
